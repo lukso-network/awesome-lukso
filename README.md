@@ -51,7 +51,7 @@
 - [LUKSO playground](https://github.com/lukso-network/lukso-playground)
 - [Example-dapp-using-lsps](https://github.com/lukso-network/example-dapp-lsps)
 - [Example-forum-dapp](https://github.com/lukso-network/example-forum-dapp)
-- [Example-dapps](https://github.com/lukso-network/example-dapps)deployed to [https://examples.lukso.tech/](https://examples.lukso.tech/)
+- [Example-dapps](https://github.com/lukso-network/example-dapps) deployed to [https://examples.lukso.tech/](https://examples.lukso.tech/)
 
 ## Projects building on LUKSO
 You can find a list of projects building on LUKSO [here] (https://keezdao.notion.site/LUKSO-Project-Ecosystem-Board-ebd0a2ae356840e68cbe1e99a28a2326)
