@@ -16,13 +16,12 @@
 
 ## Upcoming Events and Hackathons
 | Name | Dates | Location | 
-|---|---|---|---|
-|  [EthWarsaw](https://www.ethwarsaw.dev/) | August 31-Sep 1 | Warsaw |
-|  [DAPPCON](https://www.dappcon.io/) | September 11-13 | Berlin |
+
+- [EthWarsaw](https://www.ethwarsaw.dev/) | August 31-Sep 1 | Warsaw |
+- [DAPPCON](https://www.dappcon.io/) | September 11-13 | Berlin |
 
 
 ## Articles
-
 - [AA is not coming. AA is here.](https://medium.com/lukso/aa-is-not-coming-aa-is-here-4d87b12ba11a)
 - [The LYXe Migration Process](https://medium.com/lukso/the-lyxe-migration-process-374053e5ddf5)
 - [Genesis Validators, start your clients!](https://medium.com/lukso/genesis-validators-start-your-clients-fe01db8f3fba)
@@ -42,3 +41,8 @@
 
 ## Presentations
 - [Fabian Vogelsteller - How LUKSO will UP!grade the blockchain user experience](https://www.youtube.com/watch?v=MKFB_pGse4A)
+
+## Best Tweets
+- [LSP6-Keymanager - @lukso_io](https://twitter.com/lukso_io/status/1680238277629038592)
+- [LSP0 - ERC725 Account - @lukso_io](https://twitter.com/lukso_io/status/1679154915971612673)
+- [LSP1 - UniversalReceiver - @lukso_io](https://twitter.com/lukso_io/status/1688950401905700877)
