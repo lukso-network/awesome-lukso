@@ -1,18 +1,17 @@
-# awesome-lukso
+# Awesome-LUKSO
 # Table of Contents
 - [Upcoming Events and Hackathons](#upcoming-events-and-hackathons)
 - [Articles](#articles)
 - [AMAs](#amas)
 - [Podcasts](#podcasts)
 - [Presentations](#presentations)
+- [Libraries](#libraries)
+- [Developer Resources](#developer-resources)
+- [Projects Building on LUKSO](#projects-building-on-LUKSO)
 - [Official Twitter Accounts](#official-twitter-accounts)
 - [People to Follow](#people-to-follow)
 - [Best Tweets](#best-tweets)
-- [Libraries](#libraries)
-- [Developer Resources](#developer-resources)
-- [Apply for Grants](#apply-for-grants)
-- [Projects Building on Fuel](#projects-building-on-fuel)
-- [International Articles](#international)
+
 
 ## Upcoming Events and Hackathons
 | Name | Dates | Location | 
@@ -37,10 +36,42 @@
 - 14th July 2023 [Blockchain |Music |Future](https://twitter.com/TheDistrictVR/status/1679852402147565570)
 
 ## Interviews
-- [Fabian Vogelsteller and Zhiyuan sun from Cointelegraph at EthCC](https://twitter.com/lukso_io/status/1685255791777869825)
+- [Fabian Vogelsteller and Zhiyuan Sun from Cointelegraph at EthCC](https://twitter.com/lukso_io/status/1685255791777869825)
 
 ## Presentations
 - [Fabian Vogelsteller - How LUKSO will UP!grade the blockchain user experience](https://www.youtube.com/watch?v=MKFB_pGse4A)
+
+## Libraries
+[erc725.js](https://github.com/ERC725Alliance/erc725.js) - library for handling metadata
+[lsp-factory](https://github.com/lukso-network/tools-lsp-factory) - library for doing the heavy lifting of interacting with different LSPs
+
+
+## Developer Resources
+- [Documentation](https://docs.lukso.tech/)
+- [LUKSO test-dapp](https://up-test-dapp.lukso.tech/)
+- [LUKSO playground](https://github.com/lukso-network/lukso-playground)
+- [Example-dapp-using-lsps](https://github.com/lukso-network/example-dapp-lsps)
+- [Example-forum-dapp](https://github.com/lukso-network/example-forum-dapp)
+- [Example-dapps](https://github.com/lukso-network/example-dapps)deployed to [https://examples.lukso.tech/](https://examples.lukso.tech/)
+
+## Projects building on LUKSO
+You can find a list of projects building on LUKSO [here](https://keezdao.notion.site/LUKSO-Project-Ecosystem-Board-ebd0a2ae356840e68cbe1e99a28a2326)
+
+## Official Twitter Account
+- LUKSO [@lukso_io](https://twitter.com/lukso_io)
+
+## People to Follow
+- [Fabian (Co-Founder)](https://twitter.com/feindura)
+- [Marjorie (Co-Founder)](https://twitter.com/m_h_d_v)
+- [Hugo (Lead Eng)](https://twitter.com/hugoapps)
+- [Felix (Dev + Researcher)](https://twitter.com/felix_hldbrndt)
+- [Johann (DevOps Lead)](https://twitter.com/JohannKalote)
+- [Sarah (Comms + Marketing)](https://twitter.com/CADcrypto)
+- [Louie (Talent)](https://twitter.com/OconnorLouie)
+- [Callum (Smart Contract)](https://twitter.com/CallumGrindle)
+- [Yamen (Smart Contract)](https://twitter.com/0xYamen)
+- [Jean (Smart Contract)](https://twitter.com/JeanCavallera)
+- [Bianca (DevRel)](https://twitter.com/buzea200)
 
 ## Best Tweets
 - [LSP6-Keymanager - @lukso_io](https://twitter.com/lukso_io/status/1680238277629038592)
