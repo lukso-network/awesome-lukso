@@ -42,9 +42,8 @@
 - [Fabian Vogelsteller - How LUKSO will UP!grade the blockchain user experience](https://www.youtube.com/watch?v=MKFB_pGse4A)
 
 ## Libraries
-[erc725.js](https://github.com/ERC725Alliance/erc725.js) - library for handling metadata
-[lsp-factory](https://github.com/lukso-network/tools-lsp-factory) - library for doing the heavy lifting of interacting with different LSPs
-
+- [erc725.js](https://github.com/ERC725Alliance/erc725.js)
+- [lsp-factory](https://github.com/lukso-network/tools-lsp-factory) 
 
 ## Developer Resources
 - [Documentation](https://docs.lukso.tech/)
@@ -55,7 +54,7 @@
 - [Example-dapps](https://github.com/lukso-network/example-dapps)deployed to [https://examples.lukso.tech/](https://examples.lukso.tech/)
 
 ## Projects building on LUKSO
-You can find a list of projects building on LUKSO [here](https://keezdao.notion.site/LUKSO-Project-Ecosystem-Board-ebd0a2ae356840e68cbe1e99a28a2326)
+You can find a list of projects building on LUKSO [here] (https://keezdao.notion.site/LUKSO-Project-Ecosystem-Board-ebd0a2ae356840e68cbe1e99a28a2326)
 
 ## Official Twitter Account
 - LUKSO [@lukso_io](https://twitter.com/lukso_io)
