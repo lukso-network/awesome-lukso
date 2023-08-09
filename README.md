@@ -7,6 +7,7 @@
 - [Presentations](#presentations)
 - [Libraries](#libraries)
 - [Developer Resources](#developer-resources)
+- [Videos](#videos)
 - [Projects Building on LUKSO](#projects-building-on-LUKSO)
 - [Official Twitter Accounts](#official-twitter-accounts)
 - [People to Follow](#people-to-follow)
@@ -18,7 +19,6 @@
 
 - [EthWarsaw](https://www.ethwarsaw.dev/) | August 31-Sep 1 | Warsaw |
 - [DAPPCON](https://www.dappcon.io/) | September 11-13 | Berlin |
-
 
 ## Articles
 - [AA is not coming. AA is here.](https://medium.com/lukso/aa-is-not-coming-aa-is-here-4d87b12ba11a)
@@ -35,11 +35,14 @@
 - 1st August 2023 [Deep dive with LUKSO](https://twitter.com/feindura/status/1686317920110993408)
 - 14th July 2023 [Blockchain |Music |Future](https://twitter.com/TheDistrictVR/status/1679852402147565570)
 
-## Interviews
+## Podcasts
 - [Fabian Vogelsteller and Zhiyuan Sun from Cointelegraph at EthCC](https://twitter.com/lukso_io/status/1685255791777869825)
 
 ## Presentations
 - [Fabian Vogelsteller - How LUKSO will UP!grade the blockchain user experience](https://www.youtube.com/watch?v=MKFB_pGse4A)
+- [Building Blocks for the New Creative Economy - Fabian Vogelsteller at NFT.NYC 2021](https://www.youtube.com/watch?v=QngP0sDQ4f0)
+- [Why Soulbound Tokens (SBT) need Universal Profiles to work](https://www.youtube.com/watch?v=umOSkeZOE6c)
+- [Why No One is Using Blockchain! - Fabian Vogelsteller at Schelling Point](https://www.youtube.com/watch?v=2FpDBsrtrd8)
 
 ## Libraries
 - [erc725.js](https://github.com/ERC725Alliance/erc725.js)
@@ -52,6 +55,18 @@
 - [Example-dapp-using-lsps](https://github.com/lukso-network/example-dapp-lsps)
 - [Example-forum-dapp](https://github.com/lukso-network/example-forum-dapp)
 - [Example-dapps](https://github.com/lukso-network/example-dapps) deployed to [https://examples.lukso.tech/](https://examples.lukso.tech/)
+
+## Videos
+- [LUKSO BUILD 🆙 #1: Kickoff Webinar](https://www.youtube.com/watch?v=84CSCp4ybx4)
+- [Building Basic dApps on LUKSO Workshop](https://www.youtube.com/watch?v=UapKVzrO5ZI)
+- [LUKSO BUILD 🆙 #1: Office Hours 1](https://www.youtube.com/watch?v=RKtrkY-RCb4)
+- [LUKSO Standard Proposals Workshop (Part 1)](https://www.youtube.com/watch?v=PrXVcRL1n98)
+- [LUKSO Tools Workshop](https://www.youtube.com/watch?v=SlCmaIQ2DqQ)
+- [LUKSO Standard Proposals Workshop (Part 2)](https://www.youtube.com/watch?v=xQV2l7VSRZ0)
+- [LUKSO BUILD 🆙 #1: Office Hours 2](https://www.youtube.com/watch?v=2GjfDagjY6M)
+- [LUKSO BUILD 🆙 #1: Office Hours 3](https://www.youtube.com/watch?v=GTpxEHuienk)
+- [LUKSO BUILD 🆙 #1: Office Hours 4](https://www.youtube.com/watch?v=UpPMBYOuss8)
+- [Code4Rena Contest: LUKSO lsp-smart-contracts repository overview](https://www.youtube.com/watch?v=E8Ih5n7auKY)
 
 ## Projects building on LUKSO
 You can find a list of projects building on LUKSO [here] (https://keezdao.notion.site/LUKSO-Project-Ecosystem-Board-ebd0a2ae356840e68cbe1e99a28a2326)
