@@ -71,7 +71,7 @@ A comprehensive list of awesome LUKSO resources!
 - [Code4Rena Contest: LUKSO lsp-smart-contracts repository overview](https://www.youtube.com/watch?v=E8Ih5n7auKY)
 
 ## Projects building on LUKSO
-You can find a list of projects building on LUKSO [here] (https://keezdao.notion.site/LUKSO-Project-Ecosystem-Board-ebd0a2ae356840e68cbe1e99a28a2326)
+You can find a list of projects building on LUKSO [here](https://keezdao.notion.site/LUKSO-Project-Ecosystem-Board-ebd0a2ae356840e68cbe1e99a28a2326)
 
 ## Official Twitter Account
 - LUKSO [@lukso_io](https://twitter.com/lukso_io)
