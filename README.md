@@ -1,5 +1,6 @@
 # Awesome-LUKSO
-A comprehensive list of awesome LUKSO resources!
+### A comprehensive list of awesome LUKSO resources!
+![LUKSO image](/images/LUKSO.png "LUKSO")
 
 # Table of Contents
 - [Upcoming Events and Hackathons](#upcoming-events-and-hackathons)
