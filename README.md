@@ -1,5 +1,5 @@
 # Awesome-LUKSO
-### A comprehensive list of awesome LUKSO resources!
+### A comprehensive list of awesome LUKSO resources! 
 ![LUKSO image](/images/LUKSO.png "LUKSO")
 
 # Table of Contents
@@ -80,10 +80,9 @@ You can find a list of projects building on LUKSO [here](https://keezdao.notion.
 ## People to Follow
 - [Fabian (Co-Founder)](https://twitter.com/feindura)
 - [Marjorie (Co-Founder)](https://twitter.com/m_h_d_v)
-- [Hugo (Lead Eng)](https://twitter.com/hugoapps)
-- [Felix (Dev + Researcher)](https://twitter.com/felix_hldbrndt)
-- [Johann (DevOps Lead)](https://twitter.com/JohannKalote)
-- [Sarah (Comms + Marketing)](https://twitter.com/CADcrypto)
+- [Hugo (Tech Lead)](https://twitter.com/hugoapps)
+- [Felix (Dev + Researcher)](https://twitter.com/Voulex)
+- [Johann (DevOps)](https://twitter.com/JohannKalote)
 - [Louie (Talent)](https://twitter.com/OconnorLouie)
 - [Callum (Smart Contract)](https://twitter.com/CallumGrindle)
 - [Yamen (Smart Contract)](https://twitter.com/0xYamen)
