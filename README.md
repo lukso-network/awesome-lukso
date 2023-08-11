@@ -11,8 +11,8 @@
 - [Libraries](#libraries)
 - [Developer Resources](#developer-resources)
 - [Videos](#videos)
-- [Projects Building on LUKSO](#Projects-building-on-LUKSO)
-- [Official Twitter Accounts](#Official-Twitter-Accounts)
+- [Projects Building on LUKSO](#projects-building-on-LUKSO)
+- [Official Twitter Accounts](#official-twitter-accounts)
 - [People to Follow](#people-to-follow)
 - [Best Tweets](#best-tweets)
 
