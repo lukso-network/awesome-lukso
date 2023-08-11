@@ -11,8 +11,8 @@
 - [Libraries](#libraries)
 - [Developer Resources](#developer-resources)
 - [Videos](#videos)
-- [Projects Building on LUKSO](#projects-building-on-LUKSO)
-- [Official Twitter Accounts](#official-twitter-accounts)
+- [Projects Building on LUKSO](#Projects-building-on-LUKSO)
+- [Official Twitter Accounts](#Official-Twitter-Accounts)
 - [People to Follow](#people-to-follow)
 - [Best Tweets](#best-tweets)
 
@@ -74,7 +74,7 @@
 ## Projects building on LUKSO
 You can find a list of projects building on LUKSO [here](https://keezdao.notion.site/LUKSO-Project-Ecosystem-Board-ebd0a2ae356840e68cbe1e99a28a2326)
 
-## Official Twitter Account
+## Official Twitter Accounts
 - LUKSO [@lukso_io](https://twitter.com/lukso_io)
 
 ## People to Follow
