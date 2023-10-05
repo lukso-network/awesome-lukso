@@ -26,6 +26,7 @@
 - [EthWarsaw](https://www.ethwarsaw.dev/) | August 31-Sep 1 | Warsaw |
 - [DAPPCON](https://www.dappcon.io/) | September 11-13 | Berlin |
 - [Battle of the Blockchains](https://lu.ma/emhlr7es) | September 13 | Berlin |
+- [CV Summit 2023](https://www.youtube.com/watch?v=FhP4aBeeNis&ab_channel=CVLabs)
 
 ## 📄 Articles
 
@@ -110,3 +111,4 @@ You can find a list of projects building on LUKSO [here](https://keezdao.notion.
 - [LSP0 - ERC725 Account - @lukso_io](https://twitter.com/lukso_io/status/1679154915971612673)
 - [LSP1 - UniversalReceiver - @lukso_io](https://twitter.com/lukso_io/status/1688950401905700877)
 - [LSP7 - Digital Asset - @lukso_io](https://twitter.com/lukso_io/status/1696202791323156721)
+- [Storage and UPs - @lukso_io](https://x.com/lukso_io/status/1709234770876448900?s=20)
