@@ -60,6 +60,7 @@
 
 - [erc725.js](https://github.com/ERC725Alliance/erc725.js)
 - [lsp-factory](https://github.com/lukso-network/tools-lsp-factory)
+- [lsp-utils](https://github.com/lukso-network/lsp-utils)
 
 ## 👨‍💻 Developer Resources
 
@@ -91,19 +92,16 @@ You can find a list of projects building on LUKSO [here](https://keezdao.notion.
 ## 🐦 Official Twitter Accounts
 
 - LUKSO [@lukso_io](https://twitter.com/lukso_io)
+- ERC725Account [@ERC725Account](https://x.com/ERC725Account)
 
 ## 👽 People to Follow
 
 - [Fabian (Co-Founder)](https://twitter.com/feindura)
 - [Marjorie (Co-Founder)](https://twitter.com/m_h_d_v)
-- [Hugo (Tech Lead)](https://twitter.com/hugoapps)
-- [Felix (Dev + Researcher)](https://twitter.com/Voulex)
-- [Johann (DevOps)](https://twitter.com/JohannKalote)
+- [Hugo (Tech Lead)](https://twitter.com/HugoApps)
 - [Louie (Talent)](https://twitter.com/OconnorLouie)
-- [Callum (Smart Contract)](https://twitter.com/CallumGrindle)
 - [Yamen (Smart Contract)](https://twitter.com/0xYamen)
 - [Jean (Smart Contract)](https://twitter.com/JeanCavallera)
-- [Bianca (DevRel)](https://twitter.com/buzea200)
 
 ## 📄 Best Tweets
 
