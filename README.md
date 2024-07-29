@@ -7,7 +7,6 @@
 
 - LUKSO [@lukso_io](https://twitter.com/lukso_io)
 - ERC725Account [@ERC725Account](https://x.com/ERC725Account)
-
 - [Fabian (Co-Founder)](https://twitter.com/feindura)
 - [Marjorie (Co-Founder)](https://twitter.com/m_h_d_v)
 - [Hugo (Tech Lead)](https://twitter.com/HugoApps)
