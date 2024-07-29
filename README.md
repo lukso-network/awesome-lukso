@@ -3,21 +3,10 @@
 
 **A comprehensive list of awesome LUKSO resources!**
 
-## 🐦 Official Twitter Accounts & 👁️ People to Follow
-
-- LUKSO [@lukso_io](https://twitter.com/lukso_io)
-- ERC725Account [@ERC725Account](https://x.com/ERC725Account)
-- [Fabian (Co-Founder)](https://twitter.com/feindura)
-- [Marjorie (Co-Founder)](https://twitter.com/m_h_d_v)
-- [Hugo (Tech Lead)](https://twitter.com/HugoApps)
-- [Louie (Talent)](https://twitter.com/OconnorLouie)
-- [Yamen (Smart Contract)](https://twitter.com/0xYamen)
-- [Jean (Smart Contract)](https://twitter.com/JeanCavallera)
-
-
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
+  - [🐦 Official Twitter Accounts \& 👁️ People to Follow](#-official-twitter-accounts--️-people-to-follow)
 - [🧱 Popular dApps built on LUKSO](#-popular-dapps-built-on-lukso)
 - [👨‍💻 Developer / Builder Resources](#-developer--builder-resources)
   - [👨🏻‍💻 Technical Workshops](#-technical-workshops)
@@ -38,6 +27,18 @@
   - [🎙 Podcasts](#-podcasts)
 - [📄 News](#-news)
 - [🐦 Best Tweets](#-best-tweets)
+
+## 🐦 Official Twitter Accounts & 👁️ People to Follow
+
+- LUKSO [@lukso_io](https://twitter.com/lukso_io)
+- ERC725Account [@ERC725Account](https://x.com/ERC725Account)
+- [Fabian (Co-Founder)](https://twitter.com/feindura)
+- [Marjorie (Co-Founder)](https://twitter.com/m_h_d_v)
+- [Hugo (Tech Lead)](https://twitter.com/HugoApps)
+- [Louie (Talent)](https://twitter.com/OconnorLouie)
+- [Yamen (Smart Contract)](https://twitter.com/0xYamen)
+- [Jean (Smart Contract)](https://twitter.com/JeanCavallera)
+
 
 <!-- ## 🎤 Upcoming Events and Hackathons
 
