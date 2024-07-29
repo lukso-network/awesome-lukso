@@ -1,37 +1,42 @@
-# Awesome-LUKSO
 
-### A comprehensive list of awesome LUKSO resources!
+![LUKSO image](/images/awesome-lukso.jpg "LUKSO")
 
-![LUKSO image](/images/awesome-lukso.jpeg "LUKSO")
+**A comprehensive list of awesome LUKSO resources!**
 
-## 🐦 Official Twitter Accounts
+## 🐦 Official Twitter Accounts & 👁️ People to Follow
 
 - LUKSO [@lukso_io](https://twitter.com/lukso_io)
 - ERC725Account [@ERC725Account](https://x.com/ERC725Account)
 
+- [Fabian (Co-Founder)](https://twitter.com/feindura)
+- [Marjorie (Co-Founder)](https://twitter.com/m_h_d_v)
+- [Hugo (Tech Lead)](https://twitter.com/HugoApps)
+- [Louie (Talent)](https://twitter.com/OconnorLouie)
+- [Yamen (Smart Contract)](https://twitter.com/0xYamen)
+- [Jean (Smart Contract)](https://twitter.com/JeanCavallera)
+
+
 # Table of Contents
 
-- [Awesome-LUKSO](#awesome-lukso)
-    - [A comprehensive list of awesome LUKSO resources!](#a-comprehensive-list-of-awesome-lukso-resources)
-  - [🐦 Official Twitter Accounts](#-official-twitter-accounts)
 - [Table of Contents](#table-of-contents)
 - [🧱 Popular dApps built on LUKSO](#-popular-dapps-built-on-lukso)
 - [👨‍💻 Developer / Builder Resources](#-developer--builder-resources)
   - [👨🏻‍💻 Technical Workshops](#-technical-workshops)
+  - [Repositories](#repositories)
   - [📚 Libraries](#-libraries)
-  - [🧪 dApps for Example \& Testing](#-dapps-for-example--testing)
+  - [🧪 dApps for Examples \& Testing](#-dapps-for-examples--testing)
 - [🎥 Videos](#-videos)
   - [🗣 Presentations](#-presentations)
   - [👷🏻‍♂️ For Builders](#️-for-builders)
   - [🎤 Interviews](#-interviews)
   - [Others](#others)
 - [📄 Articles](#-articles)
+  - [📚 Education](#-education)
   - [🛠️ Tutorials](#️-tutorials)
   - [Other](#other)
 - [🎧 Audio](#-audio)
   - [👀 AMAs \& Roundtables](#-amas--roundtables)
   - [🎙 Podcasts](#-podcasts)
-- [👽 People to Follow](#-people-to-follow)
 - [📄 News](#-news)
 - [🐦 Best Tweets](#-best-tweets)
 
@@ -69,7 +74,7 @@
 - [[20min] Solidity Workshop: Building a sample Proof of Attendance NFT with LSP8 on LUKSO, by Jean Cavallera, Eth Denver (February 2024)](https://www.youtube.com/watch?v=ff_IYOuQn_s)
 - [[1h16min] LUKSO Tools Presentation & Workshop (July 2023)](https://www.youtube.com/watch?v=SlCmaIQ2DqQ)
 
-## Repositories
+## Repositories
 
 - [LUKSO playground](https://github.com/lukso-network/lukso-playground)
 
@@ -78,7 +83,7 @@
 - [erc725.js](https://github.com/ERC725Alliance/erc725.js)
 - [lsp-utils](https://github.com/lukso-network/lsp-utils)
 
-## 🧪 dApps for Example & Testing
+## 🧪 dApps for Examples & Testing
 
 - [LUKSO test-dapp](https://up-test-dapp.lukso.tech/)
 
@@ -95,16 +100,16 @@
 - [Building Blocks for the New Creative Economy - Fabian Vogelsteller at NFT.NYC 2021](https://www.youtube.com/watch?v=QngP0sDQ4f0)
 - [Why Soulbound Tokens (SBT) need Universal Profiles to work](https://www.youtube.com/watch?v=umOSkeZOE6c)
 - [Why No One is Using Blockchain! - Fabian Vogelsteller at Schelling Point](https://www.youtube.com/watch?v=2FpDBsrtrd8)
-- [[39min] Building the Next Generation DApps with Universal Profiles- Stephen Horvath | MeetUP! #2 (November 2023, devconnect Istanbul)](https://www.youtube.com/watch?v=B_ZwMCcTfxw)
-- [[17min] LUKSO's Co-Founder Fabian Vogelsteller on the Future of the Creative Economy | CV Summit 2023](https://www.youtube.com/watch?v=AS3YoLGP2kc)
+- \[39min\]  [Building the Next Generation DApps with Universal Profiles- Stephen Horvath | MeetUP! #2 (November 2023, devconnect Istanbul)](https://www.youtube.com/watch?v=B_ZwMCcTfxw)
+- \[17min\]  [LUKSO's Co-Founder Fabian Vogelsteller on the Future of the Creative Economy | CV Summit 2023](https://www.youtube.com/watch?v=AS3YoLGP2kc)
 
 ## 👷🏻‍♂️ For Builders
 
-- [[1min] Why LUKSO? The Approach to New Standards](https://www.youtube.com/watch?v=f3OEtW1-Fec)
-- [[34min] Unlock the Decentralized Social Web: Understanding Next Gen of Smart Contract Standards & Accounts, by Yamen Merhi (May 2024)](https://www.youtube.com/watch?v=7Ds8rYyzJ5A)
-- [[9min] Kickstart your Development Journey, Accessing Resources & Tools](https://www.youtube.com/watch?v=kJ5_6LN6mZc)
-- [[35min] LUKSO LSP Recipes to Build New Protocols- Jean Cavallera | MeetUP! #2 (November 2023, Devconnect Istanbul)](https://www.youtube.com/watch?v=cx7EHlP6BZM)
-- [[26min] Custom Universal Profile Usage - Callum Grindle | MeetUP! #2 (November 2023, Devconnect Istanbul)](https://www.youtube.com/watch?v=LV5YpEXgQpc)
+- \[1min\]  [Why LUKSO? The Approach to New Standards](https://www.youtube.com/watch?v=f3OEtW1-Fec)
+- \[34min\]  [Unlock the Decentralized Social Web: Understanding Next Gen of Smart Contract Standards & Accounts, by Yamen Merhi (May 2024)](https://www.youtube.com/watch?v=7Ds8rYyzJ5A)
+- \[9min\]  [Kickstart your Development Journey, Accessing Resources & Tools](https://www.youtube.com/watch?v=kJ5_6LN6mZc)
+- \[35min\]  [LUKSO LSP Recipes to Build New Protocols- Jean Cavallera | MeetUP! #2 (November 2023, Devconnect Istanbul)](https://www.youtube.com/watch?v=cx7EHlP6BZM)
+- \[26min\]  [Custom Universal Profile Usage - Callum Grindle | MeetUP! #2 (November 2023, Devconnect Istanbul)](https://www.youtube.com/watch?v=LV5YpEXgQpc)
 - [LUKSO BUILD 🆙 #1: Office Hours 4](https://www.youtube.com/watch?v=UpPMBYOuss8)
 - [LUKSO BUILD 🆙 #1: Office Hours 3](https://www.youtube.com/watch?v=GTpxEHuienk)
 - [LUKSO BUILD 🆙 #1: Office Hours 2](https://www.youtube.com/watch?v=2GjfDagjY6M)
@@ -119,8 +124,8 @@
 
 ## 🎤 Interviews
 
-- [[4min] Interview with Sage from KEEZ, Berlin Blockchain Week (June 2024)](https://www.youtube.com/watch?v=5EBIP4W-zuo)
-- [[2min] Interview with Mustaa co-founder, Berlin Blockchain Week (June 2024)](https://www.youtube.com/watch?v=coA04U5a4eg&list=PLNzyUdu4v7bnBAiI9RLYDDUgFrlftHlq_&index=5)
+- \[4min\] [Interview with Sage from KEEZ, Berlin Blockchain Week (June 2024)](https://www.youtube.com/watch?v=5EBIP4W-zuo)
+- \[2min\] [Interview with Mustaa co-founder, Berlin Blockchain Week (June 2024)](https://www.youtube.com/watch?v=coA04U5a4eg&list=PLNzyUdu4v7bnBAiI9RLYDDUgFrlftHlq_&index=5)
 
 ## Others
 
@@ -129,7 +134,7 @@
 
 # 📄 Articles
 
-## 📚 Education
+## 📚 Education
 
 - [AA is not coming. AA is here.](https://medium.com/lukso/aa-is-not-coming-aa-is-here-4d87b12ba11a)
 - [The LYXe Migration Process](https://medium.com/lukso/the-lyxe-migration-process-374053e5ddf5)
@@ -143,7 +148,7 @@
 
 ## 🛠️ Tutorials
 
-- [[4min read] Build your first NFT Collection on LUKSO](https://medium.com/lukso/build-your-first-nft-collection-on-lukso-a984743e07af)
+- [Build your first NFT Collection on LUKSO](https://medium.com/lukso/build-your-first-nft-collection-on-lukso-a984743e07af)
 
 ## Other
 
@@ -168,14 +173,7 @@
 
 
 
-# 👽 People to Follow
 
-- [Fabian (Co-Founder)](https://twitter.com/feindura)
-- [Marjorie (Co-Founder)](https://twitter.com/m_h_d_v)
-- [Hugo (Tech Lead)](https://twitter.com/HugoApps)
-- [Louie (Talent)](https://twitter.com/OconnorLouie)
-- [Yamen (Smart Contract)](https://twitter.com/0xYamen)
-- [Jean (Smart Contract)](https://twitter.com/JeanCavallera)
 
 # 📄 News 
 
