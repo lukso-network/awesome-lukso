@@ -31,8 +31,8 @@
   - [🎤 Interviews](#-interviews)
   - [Others](#others)
 - [📄 Articles](#-articles)
-  - [📚 Education](#-education)
   - [🛠️ Tutorials](#️-tutorials)
+  - [📚 Education](#-education)
   - [Other](#other)
 - [🎧 Audio](#-audio)
   - [👀 AMAs \& Roundtables](#-amas--roundtables)
@@ -49,16 +49,22 @@
 - [Battle of the Blockchains](https://lu.ma/emhlr7es) | September 13 | Berlin |
 - [CV Summit 2023](https://www.youtube.com/watch?v=FhP4aBeeNis&ab_channel=CVLabs) -->
 
+---
+
 # 🧱 Popular dApps built on LUKSO
 
 > You can also find a full list of projects building on LUKSO in the [KeezDAO LUKSO Project Ecosystem Board](https://keezdao.notion.site/LUKSO-Project-Ecosystem-Board-ebd0a2ae356840e68cbe1e99a28a2326)
 
-- UniversalProfile.cloud
-- Universal.Page
-- UniversalSwap.io
-- LSP8.app
-- CommonGround
+- [**UniversalProfile.cloud**](https://universalprofile.cloud)
+- [**Universal.Page**](https://universal.page)
+- [**UniversalSwap.io**](https://universalswaps.io/)
+- [**LSP8.app** - dApp to track rarity of LSP8 NFTs](https://lsp8.app/)
+- [**CommonGround** - LUKSO Community](https://app.cg/e/lukso)
+- [**StakingVerse.io**](https://stakingverse.io/)
+- [**Universal Grave** - Stop receiving assets you don't want!](https://universalgrave.com/)
+- [**UPTurn**](https://upturn.live/)
 
+---
 
 # 👨‍💻 Developer / Builder Resources
 
@@ -93,10 +99,13 @@
 - [Example-dapps](https://github.com/lukso-network/example-dapps) deployed to [https://examples.lukso.tech/](https://examples.lukso.tech/)
 - [Twitter-UP-Dapp](https://github.com/CJ42/twitter-up-dapp/tree/main)
 
+---
+
 # 🎥 Videos
 
 ## 🗣 Presentations
 
+- \[20min\] [Onboarding new users using a gasless transaction tool, Eth CC (July 2024)](https://ethcc.io/archive/Onboarding-new-users-using-a-gasless-transaction-tool)
 - [Fabian Vogelsteller - How LUKSO will UP!grade the blockchain user experience](https://www.youtube.com/watch?v=MKFB_pGse4A)
 - [Building Blocks for the New Creative Economy - Fabian Vogelsteller at NFT.NYC 2021](https://www.youtube.com/watch?v=QngP0sDQ4f0)
 - [Why Soulbound Tokens (SBT) need Universal Profiles to work](https://www.youtube.com/watch?v=umOSkeZOE6c)
@@ -134,8 +143,14 @@
 
 - [Code4Rena Contest: LUKSO lsp-smart-contracts repository overview](https://www.youtube.com/watch?v=E8Ih5n7auKY)
 
+---
 
 # 📄 Articles
+
+## 🛠️ Tutorials
+
+- [Build your first NFT Collection on LUKSO](https://medium.com/lukso/build-your-first-nft-collection-on-lukso-a984743e07af)
+
 
 ## 📚 Education
 
@@ -149,13 +164,12 @@
 - [LUKSO Ecosystem: Part 2](https://medium.com/lukso/lukso-ecosystem-part-2-fdc6abedf9dc)
 - [LUKSO Ecosystem: Part 1](https://medium.com/lukso/lukso-ecosystem-part-1-4c3f5d67b081)
 
-## 🛠️ Tutorials
-
-- [Build your first NFT Collection on LUKSO](https://medium.com/lukso/build-your-first-nft-collection-on-lukso-a984743e07af)
 
 ## Other
 
 - [Important Changes to the LSP7 & LSP8 Token Standards](https://medium.com/lukso/important-changes-to-lsp7-lsp8-token-standards-a1e2627d0b0e)
+
+---
 
 # 🎧 Audio
 
