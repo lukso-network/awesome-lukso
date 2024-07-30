@@ -8,6 +8,7 @@
 - [Table of Contents](#table-of-contents)
   - [🐦 Official Twitter Accounts \& 👁️ People to Follow](#-official-twitter-accounts--️-people-to-follow)
 - [🧱 Popular dApps built on LUKSO](#-popular-dapps-built-on-lukso)
+  - [Community Repositories](#community-repositories)
 - [👨‍💻 Developer / Builder Resources](#-developer--builder-resources)
   - [👨🏻‍💻 Technical Workshops](#-technical-workshops)
   - [Repositories](#repositories)
@@ -64,6 +65,10 @@
 - [**Universal Grave** - Stop receiving assets you don't want!](https://universalgrave.com/)
 - [**UPTurn**](https://upturn.live/)
 
+## Community Repositories
+
+- [LSP Token Indexer](https://github.com/Deliquified/lsp-token-indexer)
+
 ---
 
 # 👨‍💻 Developer / Builder Resources
@@ -83,12 +88,16 @@
 
 ## Repositories
 
+- [LUKSO Next.js Boilerplate](https://github.com/lukso-network?q=boiler&type=all&language=&sort=)
 - [LUKSO playground](https://github.com/lukso-network/lukso-playground)
+- [LUKSO Foundry Template](https://github.com/CJ42/lukso-forge-template)
+- [LUKSO Hardhat Template](https://github.com/CJ42/LUKSO-Hardhat-template)
 
 ## 📚 Libraries
 
-- [erc725.js](https://github.com/ERC725Alliance/erc725.js)
-- [lsp-utils](https://github.com/lukso-network/lsp-utils)
+- [`@lukso/lsp-smart-contracts`](https://github.com/lukso-network/universalprofile-smart-contracts)
+- [`@erc725/erc725.js`](https://github.com/ERC725Alliance/erc725.js)
+- [`@lukso/lsp-utils`](https://github.com/lukso-network/lsp-utils)
 
 ## 🧪 dApps for Examples & Testing
 
