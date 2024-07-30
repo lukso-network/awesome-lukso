@@ -151,6 +151,7 @@
 ## Others
 
 - [Code4Rena Contest: LUKSO lsp-smart-contracts repository overview](https://www.youtube.com/watch?v=E8Ih5n7auKY)
+- How to create a LUKSO account with your ledger device? - [Article](https://support.ledger.com/article/15847276545053-zd?redirect=false) | [Video](https://www.youtube.com/watch?v=eAZq3Fr8fLc)
 
 ---
 
@@ -191,6 +192,10 @@
 
 ## 🎙 Podcasts
 
+- [Web3 User Experience 👥 🌐 LUKSO Grants Program with FNCΞ](https://x.com/i/spaces/1lDxLPgOoQZxm/peek)
+- [LUKSO Community Call: Exploring Music and Digital Lifestyles🪩⛓️](https://x.com/i/spaces/1ZkKzjEOykNKv)
+- [💡LUKSO: Global Creative Economies Blueprint⚡️Utility Across Chains⛓🔨](https://x.com/i/spaces/1vAxRvdDWaaxl)
+- [BUIDL & CHILL: @lukso_io Build🆙 #2 pre-launch party 🎉](https://x.com/i/spaces/1BdGYraLwAlJX)
 - [Crypto Hipster & Fabian Vogelsteller podcast](https://podcasters.spotify.com/pod/show/crypto-hipster-podcast/episodes/Crypto-Hipster-PresentsShooting-from-the-Hip--Ep-12-Why-Designing-Excellent-Technological-Standards-Provide-the-Bedrock-for-Global-Mass-Adoption-of-Blockchain-Technology-Fabian-Vogelstellar--LUKSO-e2kmj9l)
 - [Fabian Vogelsteller and Zhiyuan Sun from Cointelegraph at EthCC](https://twitter.com/lukso_io/status/1685255791777869825)
 
