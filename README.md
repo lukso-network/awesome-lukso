@@ -192,6 +192,9 @@
 
 ## 🎙 Podcasts
 
+- [New Standards Podcast - by KeezDAO](https://upcloselyx.podbean.com/)
+- [Pink Pill Production Youtube Channel - by KeezDAO](https://www.youtube.com/@pinkpillproductions)
+- [Keez.space](https://keez.space/)
 - [Web3 User Experience 👥 🌐 LUKSO Grants Program with FNCΞ](https://x.com/i/spaces/1lDxLPgOoQZxm/peek)
 - [LUKSO Community Call: Exploring Music and Digital Lifestyles🪩⛓️](https://x.com/i/spaces/1ZkKzjEOykNKv)
 - [💡LUKSO: Global Creative Economies Blueprint⚡️Utility Across Chains⛓🔨](https://x.com/i/spaces/1vAxRvdDWaaxl)
