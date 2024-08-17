@@ -15,6 +15,7 @@
   - [📚 Libraries](#-libraries)
   - [🧪 dApps for Examples \& Testing](#-dapps-for-examples--testing)
 - [🎥 Videos](#-videos)
+  - [⌚ Quick Summary](#-quick-summary)
   - [🗣 Presentations](#-presentations)
   - [👷🏻‍♂️ For Builders](#️-for-builders)
   - [🎤 Interviews](#-interviews)
@@ -31,14 +32,16 @@
 
 ## 🐦 Official Twitter Accounts & 👁️ People to Follow
 
-- LUKSO [@lukso_io](https://twitter.com/lukso_io)
+- LUKSO [@lukso_io](https://x.com/lukso_io)
 - ERC725Account [@ERC725Account](https://x.com/ERC725Account)
-- [Fabian (Co-Founder)](https://twitter.com/feindura)
-- [Marjorie (Co-Founder)](https://twitter.com/m_h_d_v)
-- [Hugo (Tech Lead)](https://twitter.com/HugoApps)
-- [Louie (Talent)](https://twitter.com/OconnorLouie)
-- [Yamen (Smart Contract)](https://twitter.com/0xYamen)
-- [Jean (Smart Contract)](https://twitter.com/JeanCavallera)
+- FNCE [@LUKSOFoundation](https://x.com/LUKSOFoundation)
+- [Fabian (Co-Founder)](https://x.com/feindura)
+- [Marjorie (Co-Founder)](https://x.com/m_h_d_v)
+- [Lucian (Managing Director at FNCE)](https://x.com/Lucian_Aguilar)
+- [Hugo (Tech Lead)](https://x.com/HugoApps)
+- [Louie (Talent)](https://x.com/OconnorLouie)
+- [Yamen (Smart Contract)](https://x.com/0xYamen)
+- [Jean (Smart Contract)](https://x.com/JeanCavallera)
 
 
 <!-- ## 🎤 Upcoming Events and Hackathons
@@ -64,6 +67,7 @@
 - [**StakingVerse.io**](https://stakingverse.io/)
 - [**Universal Grave** - Stop receiving assets you don't want!](https://universalgrave.com/)
 - [**UPTurn**](https://upturn.live/)
+- [**ArtisanAlly** - Crowdfund your project](https://artisanally.io/)
 
 ## Community Repositories
 
@@ -85,6 +89,7 @@
 - _\[48min\]_ [Solidity workshop - Migrate from a smart contract from ERC20/721  to LSP7/8](https://www.youtube.com/watch?v=2WH1kI5iWJs)
 - _\[20min\]_ [Solidity Workshop: Building a sample Proof of Attendance NFT with LSP8 on LUKSO, by Jean Cavallera, Eth Denver (February 2024)](https://www.youtube.com/watch?v=ff_IYOuQn_s)
 - _\[1h16min\]_ [LUKSO Tools Presentation & Workshop (July 2023)](https://www.youtube.com/watch?v=SlCmaIQ2DqQ)
+- [Step-by-Step Guide - Deploy and Set LSP7/8 Token Metadata](https://www.youtube.com/watch?v=TZV_eOp77b8)
 
 ## Repositories
 
@@ -112,9 +117,13 @@
 
 # 🎥 Videos
 
+## ⌚ Quick Summary
+
+- _\[15min\]_ [LUKSO explained in 15min](https://www.youtube.com/watch?v=Vw4JE64hsO8)
+
 ## 🗣 Presentations
 
-- \[20min\] [Onboarding new users using a gasless transaction tool, Eth CC (July 2024)](https://ethcc.io/archive/Onboarding-new-users-using-a-gasless-transaction-tool)
+- _\[20min\]_ [Onboarding new users using a gasless transaction tool, Eth CC (July 2024)](https://ethcc.io/archive/Onboarding-new-users-using-a-gasless-transaction-tool)
 - [Fabian Vogelsteller - How LUKSO will UP!grade the blockchain user experience](https://www.youtube.com/watch?v=MKFB_pGse4A)
 - [Building Blocks for the New Creative Economy - Fabian Vogelsteller at NFT.NYC 2021](https://www.youtube.com/watch?v=QngP0sDQ4f0)
 - [Why Soulbound Tokens (SBT) need Universal Profiles to work](https://www.youtube.com/watch?v=umOSkeZOE6c)
@@ -211,6 +220,7 @@
 
 # 📄 News 
 
+- [LUKSO Partners with DIA to Bring Oracles to Mainnet](https://www.diadata.org/blog/post/lukso-partners-with-dia-oracles-mainnet/)
 - [Envio’s Data Indexing Supports Developers Building on LUKSO (February 2024)](https://docs.envio.dev/blog/envio-data-indexing-supports-developers-building-on-lukso)
 - [LUKSO’s Universal Profiles Integrates Transak For Mass Adoption In The Web3 Creator Economy (February 2024)](https://mpost.io/luksos-universal-profiles-integrates-transak-for-mass-adoption-in-the-web3-creator-economy/)
 - [Tangany & LUKSO announce Secure account recovery for Universal Profiles (January 2024)](https://tangany.com/blog/tangany-lukso-secure-account-recovery)
@@ -219,8 +229,9 @@
 
 # 🐦 Best Tweets
 
-- [LSP6-Keymanager - @lukso_io](https://twitter.com/lukso_io/status/1680238277629038592)
-- [LSP0 - ERC725 Account - @lukso_io](https://twitter.com/lukso_io/status/1679154915971612673)
-- [LSP1 - UniversalReceiver - @lukso_io](https://twitter.com/lukso_io/status/1688950401905700877)
-- [LSP7 - Digital Asset - @lukso_io](https://twitter.com/lukso_io/status/1696202791323156721)
+- [LSP6-Keymanager - @lukso_io](https://x.com/lukso_io/status/1680238277629038592)
+- [LSP0 - ERC725 Account - @lukso_io](https://x.com/lukso_io/status/1679154915971612673)
+- [LSP1 - UniversalReceiver - @lukso_io](https://x.com/lukso_io/status/1688950401905700877)
+- [LSP7 - Digital Asset - @lukso_io](https://x.com/lukso_io/status/1696202791323156721)
 - [Storage and UPs - @lukso_io](https://x.com/lukso_io/status/1709234770876448900?s=20)
+- [Wave 1 of the LUKSO Grants Program - @LUKSOFoundation](https://x.com/LUKSOFoundation/status/1821909593665982800)
