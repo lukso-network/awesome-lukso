@@ -37,37 +37,25 @@
 - ERC725Account [@ERC725Account](https://x.com/ERC725Account)
 - FNCE [@LUKSOFoundation](https://x.com/LUKSOFoundation)
 - [Fabian (Co-Founder)](https://x.com/feindura)
-- [Marjorie (Co-Founder)](https://x.com/m_h_d_v)
 - [Lucian (Managing Director at FNCE)](https://x.com/Lucian_Aguilar)
-- [Hugo (Tech Lead)](https://x.com/HugoApps)
-- [Louie (Talent)](https://x.com/OconnorLouie)
+- [Jon (Growth at FNCE)](https://x.com/jon8wan)
+- [Jean (Smart Contract Lead)](https://x.com/JeanCavallera)
 - [Yamen (Smart Contract)](https://x.com/0xYamen)
-- [Jean (Smart Contract)](https://x.com/JeanCavallera)
-
-<!-- ## 🎤 Upcoming Events and Hackathons
-
-| Name | Dates | Location |
-
-- [EthWarsaw](https://www.ethwarsaw.dev/) | August 31-Sep 1 | Warsaw |
-- [DAPPCON](https://www.dappcon.io/) | September 11-13 | Berlin |
-- [Battle of the Blockchains](https://lu.ma/emhlr7es) | September 13 | Berlin |
-- [CV Summit 2023](https://www.youtube.com/watch?v=FhP4aBeeNis&ab_channel=CVLabs) -->
-
----
+- [Craig (DevRel Lead)](https://x.com/ethalorian)
+- [Mustafa (DevRel)](https://x.com/manipulatedbit)
 
 # 🧱 Popular dApps built on LUKSO
 
 > You can also find a full list of projects building on LUKSO in the [KeezDAO LUKSO Project Ecosystem Board](https://keezdao.notion.site/LUKSO-Project-Ecosystem-Board-ebd0a2ae356840e68cbe1e99a28a2326)
 
-- [**UniversalProfile.cloud**](https://universalprofile.cloud)
+- [**UniversalEverything**](https://universaleverything.io/)
 - [**Universal.Page**](https://universal.page)
 - [**UniversalSwap.io**](https://universalswaps.io/)
-- [**LSP8.app** - dApp to track rarity of LSP8 NFTs](https://lsp8.app/)
 - [**CommonGround** - LUKSO Community](https://app.cg/e/lukso)
+- [**Defolio** - Universal Profile Management Tool](https://www.de-folio.com/)
 - [**StakingVerse.io**](https://stakingverse.io/)
 - [**Universal Grave** - Stop receiving assets you don't want!](https://universalgrave.com/)
 - [**UPTurn**](https://upturn.live/)
-- [**ArtisanAlly** - Crowdfund your project](https://artisanally.io/)
 
 ---
 
@@ -97,10 +85,12 @@
 - _\[20min\]_ [Solidity Workshop: Building a sample Proof of Attendance NFT with LSP8 on LUKSO, by Jean Cavallera, Eth Denver (February 2024)](https://www.youtube.com/watch?v=ff_IYOuQn_s)
 - _\[1h16min\]_ [LUKSO Tools Presentation & Workshop (July 2023)](https://www.youtube.com/watch?v=SlCmaIQ2DqQ)
 - [Step-by-Step Guide - Deploy and Set LSP7/8 Token Metadata](https://www.youtube.com/watch?v=TZV_eOp77b8)
+- [Getting Started with The Grid: Building mini-apps for Universal Profiles](https://www.youtube.com/watch?v=xWJo0OfOpTw)
 
 ## LUKSO Templates
 
 - [LUKSO React Next.js Boilerplate](https://github.com/lukso-network/tools-dapp-boilerplate)
+- [LUKSO Mini-app Next.js Template](https://github.com/lukso-network/miniapp-nextjs-template)
 - [LUKSO playground](https://github.com/lukso-network/lukso-playground)
 - [LUKSO Foundry Template](https://github.com/lukso-network/lukso-foundry-template)
 - [LUKSO Hardhat Template](https://github.com/CJ42/LUKSO-Hardhat-template)
@@ -112,6 +102,8 @@
 - [`@lukso/lsp-smart-contracts`](https://github.com/lukso-network/universalprofile-smart-contracts)
 - [`@erc725/erc725.js`](https://github.com/ERC725Alliance/erc725.js)
 - [`@lukso/lsp-utils`](https://github.com/lukso-network/lsp-utils)
+- [`@lukso/tools-up-provider`](https://github.com/lukso-network/tools-up-provider)
+- [`@lukso/tools-data-providers`](https://github.com/lukso-network/tools-data-providers)
 
 ## 🧪 dApps for Examples & Testing
 
